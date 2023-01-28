@@ -5,7 +5,6 @@
 
 <h3 align="left">👨🏻‍💻 Me now :</h3>
 
-- 🔭 Currently working on **.Some pet projects to improve my knowlege.**
 
 - 🌱 Currently learning **.Net Core, Microservices, Testing.**
 

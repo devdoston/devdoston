@@ -1,4 +1,4 @@
-<img align="right" alt="devdoston" style="max-width:100%" src="https://github.com/devdoston/devdoston/blob/main/github.png">
+<img align="center" alt="devdoston" style="max-width:100%" src="https://github.com/devdoston/devdoston/blob/main/github.png">
 <h1 align="center">Hi 👋, I'm Dostonbek Kurbanov</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 

@@ -1,6 +1,23 @@
 <img align="center" alt="devdoston" style="max-width:100%" src="https://github.com/devdoston/devdoston/blob/main/github.png">
 
-<h1 align="left">Hi 👋, I'm Dostonbek Kurbanov</h1> <h3 align="left">A passionate backend developer from Uzbekistan</h3>
+<h1 align="left">Hi, I'm Dostonbek Kurbanov <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"> </h1> <h3 align="left">A passionate backend developer from Uzbekistan</h3>
+
+
+<a href="https://www.youtube.com/@devdoston914">
+  <img src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F208%2F269%2Fpng-transparent-youtube-play-button-computer-icons-youtube-youtube-logo-angle-rectangle-logo.png&tbnid=iFxs4hIxIefWaM&vet=12ahUKEwikue__tdH-AhULvyoKHb3hCqsQMygQegUIARDdAQ..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-bzzdn&docid=wHuLAyuYERhw-M&w=920&h=512&q=youtube%20logo&client=firefox-b-d&ved=2ahUKEwikue__tdH-AhULvyoKHb3hCqsQMygQegUIARDdAQ](https://t3.ftcdn.net/jpg/04/74/05/94/360_F_474059464_qldYuzxaUWEwNTtYBJ44VN89ARuFktHW.jpg)" width="30px">
+</a>
+<a href="">
+  <img src="" width="30px">
+</a>
+<a href="">
+  <img src="" width="30px">
+</a>
+<a href="">
+  <img src="" width="30px">
+</a>
+<a href="">
+  <img src="" width="30px">
+</a>
 
 
 <h3 align="left">👨🏻‍💻 Me now :</h3>
@@ -8,7 +25,7 @@
 
 - 🌱 Currently learning **.Net Core, Microservices, Testing.**
 
-- 📝 I share my ideas at https://t.me/devdoston_blog
+- 📝 I share my ideas at <a href="https://t.me/devdoston_blog">Telegram Blog </a>
 
 - 💬 Ask me about **C#, ASP.NetCore.**
 
